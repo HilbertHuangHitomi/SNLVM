@@ -1,4 +1,6 @@
-### Implementation of SNLVM in Tensorflow2. This is adapted from https://github.com/HennigLab/tndm
+### Hyperspherical Neural Latent Variable Models
+
+Implementation of SNLVM in Tensorflow2. This is adapted from https://github.com/HennigLab/tndm
 
 ### Installing the package
 
