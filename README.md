@@ -1,14 +1,8 @@
-### Hyperspherical Neural Latent Variable Models
+# Hyperspherical Neural Latent Variable Models
 
-Implementation of SNLVM in Tensorflow2. This is adapted from https://github.com/HennigLab/tndm
+Implementation of SNLVM in Tensorflow2. This is adapted from https://github.com/HennigLab/tndm. To run SNLVM, you can install the environment based on the requirements of TNDM.
 
-### Installing the package
-
-In a virtual environment, install all the dependencies and the package using the following commands:
-
-	pip install -e .
-
-### Getting started
+# Getting started
 
 Run a model using:
 
